@@ -8,7 +8,7 @@ cell: cell line of the ChIP-seq data
 tf: ChIP'ed TF
 ref_tf_dp/alt_tf_dp: Read depth of tf on the ref or alt allele. Similar to other DNase-seq and histone data.
 ref_simulate_dp/alt_simulate_dp: read depth of simulated reads on ref and alt allele. Max number of reads is 72.
-ASB: whether it's a ASB event
+ASB: whether it's an ASB event
 
 
 ## Citation
